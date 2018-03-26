@@ -5,8 +5,8 @@ void main()
 	{
 	char answer[64];
 
-	printf("TODAY IS MONDAY");
-	printf("QUESTION: HOW ARE YOU DOING TODAY?");
+	printf("TODAY IS TUESDAY");
+	printf("QUESTION: HOW ARE YOU DOING TOMORROW?");
 	printf("ANSWER: ");
 	scanf("%s", &answer);
 	}
