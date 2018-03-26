@@ -3,10 +3,10 @@
 
 void main()
 	{
-	char answer[64];
+	char answer[100];
 
 	printf("TODAY IS MONDAY");
 	printf("QUESTION: HOW ARE YOU DOING TODAY?");
-	printf("ANSWER: ");
+	printf("ANSWER IS: ");
 	scanf("%s", &answer);
 	}
